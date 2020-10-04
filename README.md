@@ -1,4 +1,4 @@
-### Hi there ![mona-whisper](https://github.githubassets.com/images/mona-whisper.gif)
+### Hi there 👋 ![mona-whisper](https://github.githubassets.com/images/mona-whisper.gif)
 
 <!--
 **codeind/codeind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
